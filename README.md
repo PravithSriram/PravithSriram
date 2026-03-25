@@ -18,19 +18,24 @@
 - 📈 Preparing for **top tech placements (high package roles)**
 - ⚙️ Learning **DSA, System Design, DevOps & MLOps**
 - 💬 Ask me about **Python, React, Node.js, AI/ML**
-- ⚡ Fun fact: *Debugging feels like solving a real-life mystery 🕵️‍♂️*
+- ⚡ Fun fact: *Debugging feels like solving a mystery 🕵️‍♂️*
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="mailto:ppravithmail@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ppravithmail%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/pravith-sriram-9048082a5/">
-  <img src="https://img.shields.io/badge/LinkedIn-Pravith_Sriram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="mailto:ppravithmail@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email%20Me-ppravithmail%40gmail.com-ff4b2b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1c1c" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/pravith-sriram-9048082a5/">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Pravith%20Sriram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Let's+Connect+and+Build+Something+Awesome!;Open+for+Opportunities+🚀;Always+Ready+to+Collaborate+💡" />
 </p>
 
 ---
@@ -46,20 +51,20 @@
 ## 🚀 Featured Projects
 
 ### 📄 ATSFIY – AI Resume Analyzer  
-➡️ Built an AI system that evaluates **ATS score** and provides **resume improvement suggestions**  
-➡️ Helps users increase their chances of getting shortlisted  
+➡️ AI system that evaluates **ATS score** and gives **resume improvement suggestions**  
+➡️ Helps users improve chances of getting shortlisted  
 
 ---
 
 ### 🤖 DemandPilot – Agentic AI Inventory System  
-➡️ Developed an intelligent system that **predicts demand & automates stock management**  
-➡️ Designed for **real-world retail & e-commerce use cases**  
+➡️ Predicts demand & **automates inventory decisions using AI agents**  
+➡️ Designed for real-world **retail & e-commerce systems**  
 
 ---
 
 ### ♻️ EcoVision AI – Smart Waste Classification  
-➡️ Created a **computer vision model** to classify waste into **organic & recyclable**  
-➡️ Aimed at improving **sustainability and waste management systems**  
+➡️ Computer vision model to classify **organic & recyclable waste**  
+➡️ Focused on **sustainable waste management solutions**  
 
 ---
 
@@ -103,4 +108,6 @@
 
 ---
 
-<h3 align="center">🔥 "Code. Build. Scale. Repeat." 🔥</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=Code.+Build.+Scale.+Repeat.;Future+AI+Engineer+🚀" />
+</h3>
