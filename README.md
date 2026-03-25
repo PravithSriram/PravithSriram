@@ -6,18 +6,19 @@
 
 ---
 
-<h3 align="center">🧠 AIML Student @ SRM | 🚀 Future AI Engineer | 💡 Product Builder</h3>
+<h3 align="center">🧠 3rd Year AIML Student | 🚀 Future AI Engineer | 💡 Product Builder</h3>
 
 ---
 
 ## ⚡ About Me
 
-- 🔭 Currently building **real-world AI products**
-- 🧠 Focused on **AI + Full Stack Development**
-- 📈 Preparing for **Top Tech Placements (FAANG-level)**
+- 🎓 3rd Year student specializing in **Artificial Intelligence & Machine Learning**
+- 🧠 Passionate about **AI, Machine Learning & Full Stack Development**
+- 🚀 Currently building **real-world AI products**
+- 📈 Preparing for **top tech placements (high package roles)**
 - ⚙️ Learning **DSA, System Design, DevOps & MLOps**
 - 💬 Ask me about **Python, React, Node.js, AI/ML**
-- ⚡ Fun fact: *I enjoy debugging more than coding 🕵️‍♂️*
+- ⚡ Fun fact: *Debugging feels like solving a real-life mystery 🕵️‍♂️*
 
 ---
 
@@ -25,10 +26,10 @@
 
 <p align="center">
 <a href="mailto:ppravithmail@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-ppravithmail%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/pravith-sriram-9048082a5/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Pravith_Sriram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
@@ -45,20 +46,20 @@
 ## 🚀 Featured Projects
 
 ### 📄 ATSFIY – AI Resume Analyzer  
-➡️ Smart system that analyzes resumes, calculates ATS score, and gives actionable improvements  
-➡️ Helps users optimize resumes for **better job selection chances**
+➡️ Built an AI system that evaluates **ATS score** and provides **resume improvement suggestions**  
+➡️ Helps users increase their chances of getting shortlisted  
 
 ---
 
 ### 🤖 DemandPilot – Agentic AI Inventory System  
-➡️ AI-powered system that **predicts demand & automates stock decisions**  
-➡️ Uses intelligent agents for **real-time inventory optimization**
+➡️ Developed an intelligent system that **predicts demand & automates stock management**  
+➡️ Designed for **real-world retail & e-commerce use cases**  
 
 ---
 
 ### ♻️ EcoVision AI – Smart Waste Classification  
-➡️ Computer vision model that classifies waste into **organic & recyclable**  
-➡️ Contributes to **sustainable waste management**
+➡️ Created a **computer vision model** to classify waste into **organic & recyclable**  
+➡️ Aimed at improving **sustainability and waste management systems**  
 
 ---
 
@@ -78,15 +79,15 @@
 ## 🏆 Achievements & Focus
 
 <p align="center">
-  🚀 Building <b>AI-driven scalable products</b> <br/>
+  🚀 Building <b>AI-driven real-world products</b> <br/>
   📚 Strong focus on <b>DSA & problem-solving</b> <br/>
-  💼 Targeting <b>Top Tech Companies</b> <br/>
-  🔥 Consistent growth & execution mindset
+  💼 Targeting <b>top tech companies</b> <br/>
+  🔥 Consistency + execution mindset
 </p>
 
 ---
 
-## 🐍 Contribution Snake (Live Animation)
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PravithSriram/PravithSriram/output/github-contribution-grid-snake.svg" />
@@ -102,4 +103,4 @@
 
 ---
 
-<h3 align="center">🔥 "Build → Learn → Scale → Repeat" 🔥</h3>
+<h3 align="center">🔥 "Code. Build. Scale. Repeat." 🔥</h3>
