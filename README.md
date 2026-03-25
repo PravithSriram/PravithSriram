@@ -1,8 +1,16 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=PravithSriram&label=Visitors&color=0e75b6&style=flat" />
 
+<!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey+there!+👋;I'm+Pravith+Sriram;AI+Engineer+in+the+Making+🚀;Full+Stack+Developer+💻;Building+Real-World+AI+Products+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+there!+👋;I'm+Pravith+Sriram;AI+Engineer+in+the+Making+🚀;Full+Stack+Developer+💻;Building+Scalable+AI+Products+🔥" />
 </h1>
+
+---
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=header"/>
+</p>
 
 ---
 
@@ -12,13 +20,13 @@
 
 ## ⚡ About Me
 
-- 🎓 3rd Year student specializing in **Artificial Intelligence & Machine Learning**
-- 🧠 Passionate about **AI, Machine Learning & Full Stack Development**
-- 🚀 Currently building **real-world AI products**
-- 📈 Preparing for **top tech placements (high package roles)**
+- 🎓 3rd Year student in **Artificial Intelligence & Machine Learning**
+- 🚀 Building **real-world AI products with practical impact**
+- 🧠 Strong interest in **AI Systems + Full Stack Development**
+- 📈 Preparing for **top tech placements**
 - ⚙️ Learning **DSA, System Design, DevOps & MLOps**
-- 💬 Ask me about **Python, React, Node.js, AI/ML**
-- ⚡ Fun fact: *Debugging feels like solving a mystery 🕵️‍♂️*
+- 💬 Tech stack: **Python, React, Node.js, AI/ML**
+- ⚡ Fun fact: *Debugging = solving real-world puzzles 🧩*
 
 ---
 
@@ -26,21 +34,21 @@
 
 <p align="center">
   <a href="mailto:ppravithmail@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email%20Me-ppravithmail%40gmail.com-ff4b2b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1c1c" />
+    <img src="https://img.shields.io/badge/📧%20Email%20Me-ppravithmail%40gmail.com-ff416c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
   </a>
   
   <a href="https://www.linkedin.com/in/pravith-sriram-9048082a5/">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Pravith%20Sriram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Pravith%20Sriram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Let's+Connect+and+Build+Something+Awesome!;Open+for+Opportunities+🚀;Always+Ready+to+Collaborate+💡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Open+for+Opportunities+🚀;Let's+Build+Something+Great!;Always+Learning+💡;Always+Building+🔥" />
 </p>
 
 ---
 
-## ⚒️ Tech Arsenal ⚒️
+## ⚒️ Tech Stack ⚒️
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,python,flask,mongodb,mysql,java,c,js,ts,git,github,vscode&perline=8" />
@@ -51,32 +59,32 @@
 ## 🚀 Featured Projects
 
 ### 📄 ATSFIY – AI Resume Analyzer  
-➡️ AI system that evaluates **ATS score** and gives **resume improvement suggestions**  
-➡️ Helps users improve chances of getting shortlisted  
+➡️ AI system that evaluates **ATS score & improves resumes**  
+➡️ Helps users get **better job opportunities**  
 
 ---
 
 ### 🤖 DemandPilot – Agentic AI Inventory System  
-➡️ Predicts demand & **automates inventory decisions using AI agents**  
-➡️ Designed for real-world **retail & e-commerce systems**  
+➡️ Predicts demand & **automates inventory decisions**  
+➡️ Designed for **real-world retail scalability**  
 
 ---
 
 ### ♻️ EcoVision AI – Smart Waste Classification  
-➡️ Computer vision model to classify **organic & recyclable waste**  
-➡️ Focused on **sustainable waste management solutions**  
+➡️ Classifies **organic & recyclable waste using AI**  
+➡️ Focused on **sustainable solutions**  
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PravithSriram&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PravithSriram&theme=tokyonight&hide_border=true&border_radius=12" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PravithSriram&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PravithSriram&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PravithSriram&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PravithSriram&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 </p>
 
 ---
@@ -84,10 +92,10 @@
 ## 🏆 Achievements & Focus
 
 <p align="center">
-  🚀 Building <b>AI-driven real-world products</b> <br/>
-  📚 Strong focus on <b>DSA & problem-solving</b> <br/>
-  💼 Targeting <b>top tech companies</b> <br/>
-  🔥 Consistency + execution mindset
+  🚀 Building <b>AI Products</b> <br/>
+  📚 Mastering <b>DSA & System Design</b> <br/>
+  💼 Targeting <b>Top Tech Companies</b> <br/>
+  🔥 Growth mindset & consistency
 </p>
 
 ---
@@ -108,6 +116,13 @@
 
 ---
 
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F7FF&height=120&section=footer"/>
+</p>
+
+---
+
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=Code.+Build.+Scale.+Repeat.;Future+AI+Engineer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=24&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Build.+Learn.+Scale.+Repeat.;Future+AI+Engineer+🚀" />
 </h3>
