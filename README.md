@@ -49,79 +49,21 @@
 ## ⚒️ Tech Stack ⚒️
 
 <p align="center">
-  <!-- ✅ EXACT STACK (UNCHANGED) -->
+  <!-- KEEPING YOUR ORIGINAL STACK -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,python,flask,mongodb,mysql,java,c,js,ts,git,github,vscode&perline=8" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Skills & Expertise
 
-### 📄 ATSFIY – AI Resume Analyzer  
-➡️ AI system that evaluates **ATS score & improves resumes**  
-➡️ Helps users get **better job opportunities**
-
----
-
-### 🤖 DemandPilot – Agentic AI Inventory System  
-➡️ Predicts demand & **automates inventory decisions using AI agents**  
-➡️ Designed for **real-world retail & e-commerce systems**
-
----
-
-### ♻️ EcoVision AI – Smart Waste Classification  
-➡️ Classifies **organic & recyclable waste using computer vision**  
-➡️ Focused on **sustainability and smart waste management**
-
----
-
-## 📊 GitHub Analytics (Animated)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PravithSriram&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PravithSriram&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PravithSriram&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-</p>
-
----
-
-## 🏆 Achievements & Focus
-
-<p align="center">
-  🚀 Building <b>AI-driven real-world products</b> <br/>
-  📚 Strong focus on <b>DSA & System Design</b> <br/>
-  💼 Targeting <b>top tech companies</b> <br/>
-  🔥 Consistency + execution mindset
-</p>
-
----
-
-## 🐍 Contribution Snake (Live Animation)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PravithSriram/PravithSriram/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PravithSriram&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-<!-- 🌈 Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F7FF&height=140&section=footer&animation=fadeIn"/>
-</p>
-
----
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=26&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=650&lines=Build.+Learn.+Scale.+Repeat.;Future+AI+Engineer+🚀;From+Ideas+to+Products+💡" />
-</h3>
+```txt
+Programming: Python, Java, C, C++
+Machine Learning: Supervised Learning, Deep Learning, NLP, Model Optimization
+Data Analytics: Data Analysis, Statistics, Data Visualization (Matplotlib, Pandas)
+Frontend: HTML5, CSS3, JavaScript, TypeScript, React, Next.js
+Backend: Node.js, Express.js, Spring Boot
+Databases: MySQL, PostgreSQL, MongoDB
+Cloud: AWS (Basics)
+Concepts: REST APIs, OOPs, DBMS, Distributed Systems (Basics), Agentic AI (OpenCLAW)
+Tools: Git, GitHub, Postman, Figma
