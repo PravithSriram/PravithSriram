@@ -1,69 +1,56 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=PravithSriram&label=Visitors&color=0e75b6&style=flat" />
-
-<!-- 🔥 Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=42&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+there!+👋;I'm+Pravith+Sriram;AI+Engineer+in+the+Making+🚀;Full+Stack+Developer+💻;Building+Real-World+AI+Products+🔥" />
-</h1>
-
-<!-- 🌈 Gradient Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=140&section=header&animation=fadeIn"/>
-</p>
-
----
-
-<h3 align="center">🧠 3rd Year AIML Student | 🚀 Future AI Engineer | 💡 Product Builder</h3>
-
----
-
-## ⚡ About Me
-
-- 🎓 3rd Year student specializing in **Artificial Intelligence & Machine Learning**
-- 🚀 Building **real-world AI products with practical impact**
-- 🧠 Focused on **AI Systems + Full Stack Development**
-- 📈 Preparing for **top tech placements**
-- ⚙️ Learning **DSA, System Design, DevOps & MLOps**
-- 💬 Ask me about **Python, React, Node.js, AI/ML**
-- ⚡ Fun fact: *Debugging feels like solving a puzzle 🧩*
-
----
-
-## 🌐 Connect With Me (Animated)
-
-<p align="center">
-  <a href="mailto:ppravithmail@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email%20Me-ppravithmail%40gmail.com-ff416c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/pravith-sriram-9048082a5/">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Pravith%20Sriram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Open+for+Opportunities+🚀;Let's+Build+Something+Amazing!;AI+%2B+Full+Stack+Developer;Always+Learning+%7C+Always+Building+🔥" />
-</p>
-
----
-
 ## ⚒️ Tech Stack ⚒️
 
+### 💻 Programming Languages
 <p align="center">
-  <!-- KEEPING YOUR ORIGINAL STACK -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,python,flask,mongodb,mysql,java,c,js,ts,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
 </p>
 
----
+### 🤖 Machine Learning & AI
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-000000?style=for-the-badge&logo=pytorch&logoColor=red"/>
+  <img src="https://img.shields.io/badge/NLP-4B0082?style=for-the-badge&logo=spacy&logoColor=white"/>
+</p>
 
-## 🧠 Skills & Expertise
+### 📊 Data Analytics
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+</p>
 
-```txt
-Programming: Python, Java, C, C++
-Machine Learning: Supervised Learning, Deep Learning, NLP, Model Optimization
-Data Analytics: Data Analysis, Statistics, Data Visualization (Matplotlib, Pandas)
-Frontend: HTML5, CSS3, JavaScript, TypeScript, React, Next.js
-Backend: Node.js, Express.js, Spring Boot
-Databases: MySQL, PostgreSQL, MongoDB
-Cloud: AWS (Basics)
-Concepts: REST APIs, OOPs, DBMS, Distributed Systems (Basics), Agentic AI (OpenCLAW)
-Tools: Git, GitHub, Postman, Figma
+### 🌐 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+</p>
+
+### ⚙️ Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+### 🧠 Concepts
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOPs-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DBMS-003B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Distributed%20Systems-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-FF1493?style=for-the-badge"/>
+</p>
+
+### 🛠️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
