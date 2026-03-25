@@ -1,93 +1,82 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=PravithSriram.PravithSriram" />
+<img align="right" src="https://komarev.com/ghpvc/?username=PravithSriram&label=Profile%20Views&color=0e75b6&style=flat" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pravith+Sriram!;+AI+Engineer+%7C+Full+Stack+Developer;Building+Real+World+AI+Products+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Pravith+Sriram;AI+Engineer+%7C+Full+Stack+Developer;Building+Real-World+AI+Products+🚀;Future+FAANG+Engineer+💻" />
 </h1>
 
-<h3 align="center">🚀 AIML Student | Future AI Engineer | Building Scalable & Intelligent Systems</h3>
-<br/>
+---
 
-<div align="center">
- 🔭 Working on <b>AI-driven products & scalable full-stack systems</b> <br/>
- 🌱 Learning <b>DSA, System Design, DevOps & MLOps</b> <br/>
- 💬 Ask me about <b>Python, React, Node.js, AI/ML, MongoDB</b> <br/>
- ⚡ Fun fact: <b>I treat debugging like solving a mystery 🕵️‍♂️</b>
-</div>
+<h3 align="center">🚀 AIML Student | AI Builder | Problem Solver</h3>
 
-<br/>
+---
 
-<div align="center"> 
-  <a href="mailto:ppravithmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/pravith-sriram-9048082a5/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+### 🌟 About Me
+- 🔭 Working on **AI-powered products & scalable systems**
+- 🌱 Learning **DSA, System Design, DevOps & MLOps**
+- 💬 Ask me about **Python, React, Node.js, AI/ML**
+- ⚡ Fun fact: *Debugging = detective work 🕵️‍♂️*
 
-<hr/>
+---
 
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
-<br/>
+### 🌐 Connect with Me
+<p align="center">
+<a href="mailto:ppravithmail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/pravith-sriram-9048082a5/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,figma,git,github,vscode" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,javascript,typescript,mongodb,mysql,java,c,flask" />
-</div>
+---
 
-<hr/>
+### ⚒️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,python,mongodb,mysql,java,js,ts,flask,git,github,vscode&perline=7" />
+</p>
 
-<h2 align="center">🚀 Featured Projects 🚀</h2>
+---
 
-<div align="center">
+### 🚀 Featured Projects
 
-📄 <b>ATSFIY (AI Resume Analyzer)</b>  
-➡️ AI system that evaluates ATS score, analyzes resumes, and provides actionable improvements for better job matching  
+🔹 **ATSFIY (AI Resume Analyzer)**  
+➡️ Analyze ATS score + improve resume with AI  
 
-<br/>
+🔹 **DemandPilot (Agentic AI Inventory System)**  
+➡️ Predict demand & automate stock decisions  
 
-🤖 <b>DemandPilot – Agentic AI Inventory System</b>  
-➡️ Autonomous AI system that predicts product demand, optimizes stock levels, and automates inventory decisions  
+🔹 **EcoVision AI (Waste Classification)**  
+➡️ Classify waste using computer vision  
 
-<br/>
+---
 
-♻️ <b>EcoVision AI – Smart Waste Classification</b>  
-➡️ Computer vision model that classifies waste into categories (organic/recyclable) to improve sustainability  
+### 📊 GitHub Stats
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PravithSriram&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PravithSriram&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
+</p>
 
-<hr/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PravithSriram&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+</p>
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
-<br>
+---
 
-<div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=PravithSriram&theme=react&border_radius=10" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=PravithSriram&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
-  
-  <br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PravithSriram&layout=compact&theme=react&border_radius=10" />
-</div>
+### 🐍 Contribution Snake
 
-<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PravithSriram/PravithSriram/output/github-contribution-grid-snake.svg" />
+</p>
 
-<h2 align="center">🏆 Achievements & Focus 🏆</h2>
+---
 
-<div align="center">
- 🧠 Focused on <b>AI + Full Stack Product Development</b> <br/>
- 📈 Preparing for <b>Top Tech Placements (FAANG-level)</b> <br/>
- ⚙️ Building <b>real-world scalable systems</b> <br/>
- 🚀 Consistently improving <b>DSA & problem-solving skills</b>
-</div>
+### 🏆 Achievements
 
-<br/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PravithSriram&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
-<div align="center">
-  <h2>🐍 Contribution Graph 🐍</h2>
-  <br/>
-  <img src="https://raw.githubusercontent.com/PravithSriram/PravithSriram/output/github-contribution-grid-snake-dark.svg" />
-</div>
+---
 
-<hr/>
-
-<h3 align="center">🔥 "Build. Learn. Scale. Repeat." 🔥</h3>
+<h3 align="center">🔥 "Build. Learn. Dominate." 🔥</h3>
